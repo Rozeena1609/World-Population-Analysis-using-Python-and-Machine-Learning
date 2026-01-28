@@ -27,7 +27,7 @@ The model successfully captured historical population trends and produced
 predictions close to actual population values.
 
 ## 📁 Files
-- `world_population_analysis.ipynb` – Complete analysis
+- `World Population Analysis.ipynb` – Complete analysis
 - `world_population.csv` – Dataset
 
 ## 👤 Author
